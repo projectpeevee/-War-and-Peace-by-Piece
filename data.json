@@ -9,31 +9,89 @@
     {
       "start_date": {
         "year": "1805",
-        "month": "3",
-        "day": "1"
+        "month": "01",
+        "day": "01"
       },
       "text": {
-        "headline": "Introduction of Pierre",
-        "text": "Pierre Bezukhov is introduced as the awkward heir to a fortune."
-      },
-      "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Tolstoy_Pierre.jpg",
-        "caption": "Pierre Bezukhov, an iconic character."
+        "headline": "Book One: Introduction",
+        "text": "Introduction to the main characters and the social and political landscape of Russia in 1805."
       }
     },
     {
       "start_date": {
-        "year": "1812",
-        "month": "6",
-        "day": "24"
+        "year": "1805",
+        "month": "01",
+        "day": "15"
       },
       "text": {
-        "headline": "Napoleon Invades Russia",
-        "text": "The French army marches into Russian territory, leading to a pivotal moment in the story."
+        "headline": "Chapter 1: Anna Pavlovna's Reception",
+        "text": "Anna Pavlovna hosts a soirée where Pierre Bezukhov and Prince Andrei Bolkonsky are introduced."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "02",
+        "day": "01"
       },
-      "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Napoleon_1812.jpg",
-        "caption": "Napoleon crossing into Russia."
+      "text": {
+        "headline": "Chapter 2: Pierre's Inheritance",
+        "text": "Pierre learns of his inheritance and the responsibilities it entails."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "03",
+        "day": "01"
+      },
+      "text": {
+        "headline": "Chapter 3: Prince Andrei's Disillusionment",
+        "text": "Prince Andrei becomes disillusioned with society and seeks a more meaningful life."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "04",
+        "day": "01"
+      },
+      "text": {
+        "headline": "Chapter 4: Natasha Rostova's Debut",
+        "text": "Natasha Rostova makes her debut in society, attracting the attention of several suitors."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "05",
+        "day": "01"
+      },
+      "text": {
+        "headline": "Chapter 5: Pierre's Marriage",
+        "text": "Pierre marries Hélène Kuragin, a decision that leads to personal turmoil."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "06",
+        "day": "01"
+      },
+      "text": {
+        "headline": "Chapter 6: Prince Andrei's Return",
+        "text": "Prince Andrei returns to Russia, bringing news of the impending war with Napoleon."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "07",
+        "day": "01"
+      },
+      "text": {
+        "headline": "Chapter 7: Battle of Austerlitz",
+        "text": "The Russian army faces defeat at the Battle of Austerlitz, leading to significant changes in the characters' lives."
       }
     }
   ]
